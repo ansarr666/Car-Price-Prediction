@@ -457,6 +457,9 @@ Contributions are welcome! To contribute:
 Please ensure your code follows the existing style and includes appropriate tests or validation.
 
 ---
+## Author
+
+**Anam Ansar** <anam2408422@st.jmi.ac.in>
 
 ## License
 
