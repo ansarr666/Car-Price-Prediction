@@ -244,7 +244,7 @@ Car-Price-Prediction/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/Car-Price-Prediction.git
+git clone https://github.com/ansarr666/Car-Price-Prediction.git
 cd Car-Price-Prediction
 
 # 2. Create and activate a virtual environment
